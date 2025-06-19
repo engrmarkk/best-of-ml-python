@@ -13,12 +13,6 @@ target/
 .project
 .classpath
 # Shared VS Code Settings
-.vscode/*
-!.vscode/README.md
-!.vscode/recommended-settings.json
-!.vscode/recommended-tasks.json
-!.vscode/recommended-launch.json
-!.vscode/extensions.json
 # Ignore all local history of files
 **/.history
 
@@ -95,3 +89,8 @@ hs_err_pid*
 temp/*
 .DS_Store
 
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
