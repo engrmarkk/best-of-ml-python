@@ -90,3 +90,4 @@ temp/*
 .DS_Store
 
 .gitignore
+config.bat
